@@ -27,6 +27,13 @@ Vue.component('welcome', require('./components/Welcome.vue').default);
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
+ /**
+  * 
+  * 
+  * New Vue
+  * 
+  */
+
 const app = new Vue({
     el: '#app',
 });
